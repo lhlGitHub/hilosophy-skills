@@ -61,7 +61,7 @@ description: 使用哲学推理模型帮助 AI Agent 处理高不确定性选择
    给出一个低风险验证行动、一个决策期限、一个退出条件。
 ```
 
-# Guardrails
+# Answer Requirements
 
 - 不要替用户假装确定未来。
 - 不要只给情绪安慰。

@@ -33,7 +33,7 @@ AI 不缺信息，缺少的是：
 - `thinkers/`：哲学家认知模型
 - `frameworks/`：可复用推理模型
 - `examples/`：使用样例
-- `tests/`：评测用例
+- `tests/`：回答质量验收清单
 
 未来可扩展：
 
@@ -78,7 +78,7 @@ philosophy-skills/
 │   ├── startup.md
 │   ├── career-choice.md
 │   ├── ai-future.md
-│   └── gpt-smoke-tests.md
+│   └── gpt-usage-examples.md
 └── tests/
     └── evaluation.md
 ```
@@ -135,7 +135,7 @@ description:
 - 黑格尔
 - 尼采
 
-预留哲学家文件：
+伦理与技术哲学模型：
 
 - 康德
 - 海德格尔
@@ -177,11 +177,11 @@ Agent 应判断：
 4. 现实应用
 5. 行动建议
 
-## 发布后 GPT 测试方式
+## GPT 使用验证
 
-将本仓库作为 GPT Knowledge 后，使用 [examples/gpt-smoke-tests.md](examples/gpt-smoke-tests.md) 中的测试提示。
+将本仓库作为 GPT Knowledge 后，可以使用 [examples/gpt-usage-examples.md](examples/gpt-usage-examples.md) 中的示例问题验证回答质量。
 
-重点观察 GPT 是否做到：
+一个合格回答应做到：
 
 - 先路由问题，而不是直接泛泛回答
 - 调用哲学家作为推理模型，而不是介绍哲学知识

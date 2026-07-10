@@ -82,7 +82,7 @@ description: 使用哲学认知模型和市场验证框架，帮助 AI Agent 判
 - 是否有非广告依赖的早期分发路径
 - 是否能形成数据、流程、集成、信任或品牌壁垒
 
-# Guardrails
+# Answer Requirements
 
 - 不要把“用了 AI”当成商业价值。
 - 不要把 demo 可行等同于市场可行。

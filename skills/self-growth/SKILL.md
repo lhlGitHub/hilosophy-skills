@@ -61,7 +61,7 @@ description: 使用哲学家的行动、自由和自我超越模型，帮助 AI 
    说明如何判断自己是否真的发生了改变。
 ```
 
-# Guardrails
+# Answer Requirements
 
 - 不要输出鸡汤。
 - 不要把痛苦浪漫化。

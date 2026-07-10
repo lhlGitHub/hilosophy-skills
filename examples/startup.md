@@ -4,12 +4,9 @@
 
 我要不要进入 AI 创业？
 
-## Router 判断
+## 使用方式
 
-问题类型：AI 市场战略 + 商业战略 + 人生决策  
-首选 Skill：`ai-market-strategy`、`strategic-thinking`、`decision-making`  
-调用哲学家：老子、王阳明、黑格尔  
-调用 Framework：AI 市场验证模型、顺势模型、知行合一模型、辩证发展模型
+这个问题适合用 AI 市场战略、战略思考和决策相关 Skill 回答。回答时应同时判断趋势、行动能力、时代结构和商业验证。
 
 ## 示例输出
 
